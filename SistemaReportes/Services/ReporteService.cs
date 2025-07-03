@@ -1,6 +1,7 @@
 // Services/ReporteService.cs
 using SistemaReportes.Models;
 using SistemaReportes.Utils;
+using SistemaReportes.Repositories; // Add this line if VentaRepository is in the Repositories namespace
 
 namespace SistemaReportes.Services
 {
